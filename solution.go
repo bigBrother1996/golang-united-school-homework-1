@@ -1,5 +1,7 @@
 package solution
 
-func GetMessage() string {
-	return ""
+import "fmt"
+
+func GetMessage() {
+	fmt.Println("Hello 🗺️")
 }
