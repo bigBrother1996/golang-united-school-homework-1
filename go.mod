@@ -1,4 +1,4 @@
-module solution.go
+module main
 
 go 1.19
 
