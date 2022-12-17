@@ -2,4 +2,4 @@ module main
 
 go 1.19
 
-require github.com/kyokomi/emoji/v2 v2.2.11 // indirect
+require github.com/kyokomi/emoji/v2 v2.2.11
